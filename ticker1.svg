@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44">
+<rect width="900" height="44" fill="#000"/>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="-1553 0" dur="25s" repeatCount="indefinite"/>
+<g><rect x="0" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="22" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">verilog</text>
+<rect x="111.2" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="133.2" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">systemverilog</text>
+<rect x="280.0" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="302.0" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">c++</text>
+<rect x="352.8" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="374.8" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">python</text>
+<rect x="454.4" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="476.4" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">tcl</text>
+<rect x="527.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="549.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">perl</text>
+<rect x="609.5999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="631.5999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">xilinx</text>
+<rect x="711.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="733.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">tang nano</text>
+<rect x="841.5999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="863.5999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">vivado</text>
+<rect x="943.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="965.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">quartus</text>
+<rect x="1054.3999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1076.3999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">modelsim</text>
+<rect x="1175.1999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1197.1999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">esp-idf</text>
+<rect x="1286.3999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1308.3999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">altium</text>
+<rect x="1387.9999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1409.9999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">kicad</text>
+<rect x="1479.9999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1501.9999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">wsl</text></g><g transform="translate(1553 0)"><rect x="0" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="22" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">verilog</text>
+<rect x="111.2" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="133.2" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">systemverilog</text>
+<rect x="280.0" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="302.0" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">c++</text>
+<rect x="352.8" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="374.8" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">python</text>
+<rect x="454.4" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="476.4" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">tcl</text>
+<rect x="527.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="549.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">perl</text>
+<rect x="609.5999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="631.5999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">xilinx</text>
+<rect x="711.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="733.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">tang nano</text>
+<rect x="841.5999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="863.5999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">vivado</text>
+<rect x="943.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="965.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">quartus</text>
+<rect x="1054.3999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1076.3999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">modelsim</text>
+<rect x="1175.1999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1197.1999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">esp-idf</text>
+<rect x="1286.3999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1308.3999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">altium</text>
+<rect x="1387.9999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1409.9999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">kicad</text>
+<rect x="1479.9999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1501.9999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">wsl</text></g><g transform="translate(3106 0)"><rect x="0" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="22" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">verilog</text>
+<rect x="111.2" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="133.2" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">systemverilog</text>
+<rect x="280.0" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="302.0" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">c++</text>
+<rect x="352.8" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="374.8" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">python</text>
+<rect x="454.4" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="476.4" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">tcl</text>
+<rect x="527.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="549.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">perl</text>
+<rect x="609.5999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="631.5999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">xilinx</text>
+<rect x="711.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="733.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">tang nano</text>
+<rect x="841.5999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="863.5999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">vivado</text>
+<rect x="943.1999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="965.1999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">quartus</text>
+<rect x="1054.3999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1076.3999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">modelsim</text>
+<rect x="1175.1999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1197.1999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">esp-idf</text>
+<rect x="1286.3999999999999" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1308.3999999999999" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">altium</text>
+<rect x="1387.9999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1409.9999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">kicad</text>
+<rect x="1479.9999999999998" y="18" width="6" height="6" fill="#E5322D"/>
+<text x="1501.9999999999998" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#9a9a9a">wsl</text></g></g>
+</svg>
