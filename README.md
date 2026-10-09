@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%" alt="ahnaf zareef" />
+<img src="./header1.svg" width="100%" alt="ahnaf zareef" />
 
 <img src="./ticker.svg" width="100%" alt="verilog · systemverilog · c++ · python · tcl · perl · xilinx · DE2 cyclone· vivado · quartus · modelsim · esp-idf · altium · kicad · wsl" />
 
